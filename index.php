@@ -4,15 +4,7 @@
         <link rel="icon" href="./favicon.png">
         <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200;400&display=swap" rel="stylesheet">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
         <script src="https://kit.fontawesome.com/b2f60c20a5.js" crossorigin="anonymous"></script>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SVEVVKG8L"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-4SVEVVKG8L');
-        </script>
         <title>
             Astrophoto
         </title>
