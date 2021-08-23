@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#particles-js
+{
+    position: fixed;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    background: #232741;
+}
+
+body{
+    font-family: 'Oxanium', cursive;
+    color: white;
+}
+
+a:link {
+  color: rgb(255, 255, 255)!important;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(255, 255, 255)!important;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(185, 163, 163)!important;
+}
+
+/* selected link */
+a:active {
+  color: rgb(255, 255, 255)!important;
+}
+
+a:link {
+  text-decoration: underline!important;
+}
+
+a:visited {
+  text-decoration: none!important;
+}
+
+a:hover {
+  text-decoration: underline!important;
+}
+
+a:active {
+  text-decoration: underline!important;
+}
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: none;
+}

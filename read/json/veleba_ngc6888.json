@@ -1,0 +1,32 @@
+{
+    "image-collection": {
+      "hide": false,
+      "cover-image": "https://astrophoto.swpelc.eu/read/img/ngc6888/cover.png",
+      "cover-description": "NGC6888",
+      "collection-author": "Jan Veleba",
+      "images": [
+        {
+          "image-file": "https://astrophoto.swpelc.eu/read/img/ngc6888/image.png",
+          "image-description": "Crescent Nebula (NGC6888)",
+          "image-author": "Jan Veleba",
+          "image-exif": {
+            "exposition-time": "600 sec",
+            "number-of-lights": "118",
+            "camera": "ZWO ASI 1600MM Pro",
+            "iso": "?"
+          }
+        },
+        {
+          "image-file": "https://astrophoto.swpelc.eu/read/img/ngc6888/image2.png",
+          "image-description": "Crescent Nebula (NGC6888)",
+          "image-author": "Jan Veleba",
+          "image-exif": {
+            "exposition-time": "600 sec",
+            "number-of-lights": "118",
+            "camera": "ZWO ASI 1600MM Pro",
+            "iso": "?"
+          }
+        }
+      ]
+    }
+  }
