@@ -11,13 +11,6 @@
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script src="https://kit.fontawesome.com/b2f60c20a5.js" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.8.335/pdf.min.js"></script>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SVEVVKG8L"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-4SVEVVKG8L');
-        </script>
         <link rel="stylesheet" href="style.css">
     </head>
     <body onload="loadIFR()">
